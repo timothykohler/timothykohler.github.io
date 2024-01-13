@@ -10,5 +10,6 @@ citation: 'Eyal, K., Maughan-Brown, B, Njozela, L., Köhler, T., Ingle, K.P., B
 *BMC Public Health*, 23(1767): 1-12.'
 ---
 
-Recommended citation: Eyal, K., Maughan-Brown, B, Njozela, L., Köhler, T., Ingle, K.P., Brophy, T.S.L. and Buttenheim, A.M. (2023). Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: Evidence from a large national survey.
-*BMC Public Health*, 23(1767): 1-12.
+
+
+
