@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: Evidence from a large national survey"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 2023-09-11
+venue: 'BMC Public Health'
+paperurl: 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16584-w#:~:text=Large%20and%20significant%20variation%20in,the%20“definitely%20not”s.'
+citation: 'Eyal, K., Maughan-Brown, B, Njozela, L., Köhler, T., Ingle, K.P., Brophy, T.S.L. and Buttenheim, A.M. (2023). Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: Evidence from a large national survey.
+*BMC Public Health*, 23(1767): 1-12.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Eyal, K., Maughan-Brown, B, Njozela, L., Köhler, T., Ingle, K.P., Brophy, T.S.L. and Buttenheim, A.M. (2023). Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: Evidence from a large national survey.
+*BMC Public Health*, 23(1767): 1-12.
