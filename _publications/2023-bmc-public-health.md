@@ -2,7 +2,6 @@
 title: "Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: Evidence from a large national survey"
 collection: publications
 permalink: /publication/2023-bmc-public-health
-excerpt:
 date: 2023-09-11
 venue: 'BMC Public Health'
 paperurl: 'https://doi.org/10.1186/s12889-023-16584-w'
