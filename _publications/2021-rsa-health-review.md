@@ -10,9 +10,3 @@ citation: 'Köhler, T., English, R. and Christian, C. (2021). Trends in COVID-1
 [Download paper here.](https://journals.co.za/doi/pdf/10.10520/ejc-healthr-v2021-n1-a29)
 
 
-
- 
-
-
-
- 

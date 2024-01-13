@@ -9,6 +9,3 @@ citation: 'Burger, R., Köhler, T., Golos, A.M., Buttenheim, A.M., English, R.,
 ---
 [Download paper here.](https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-022-12826-5.pdf)
 
-
-
- 

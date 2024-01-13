@@ -9,5 +9,3 @@ citation: 'Köhler, T., Bhorat, H., Hill, R. and Stanwix, B. (2023). Lockdown s
  57(3): 1-28.'
 ---
 [Download paper here.](https://labourmarketresearch.springeropen.com/counter/pdf/10.1186/s12651-022-00329-0.pdf)
-
-
