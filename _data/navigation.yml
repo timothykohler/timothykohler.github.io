@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+    - title: "Journal articles"
+    url: /publications/journalarticles/
+
+    - title: "Book chapters"
+    url: /publications/bookchapters/
+
   - title: "Working papers and reports"
     url: /workingpapers/
 
