@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Working papers"
+  - title: "Working papers and reports"
     url: /workingpapers/
-
-  - title: "Reports"
-    url: /reports/
 
   - title: "Op-eds"
     url: /opeds/
