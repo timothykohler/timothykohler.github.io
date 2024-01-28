@@ -2,7 +2,7 @@
 title: "Expansion and Diversification in the MER Sector: Results from an Enterprise Survey"
 collection: workingpapers
 permalink: /workingpapers/2022-dpru-merseta
-date: 2022-11
+date: 2022-11-01
 venue: 'Development Policy Research Unit Working Paper 202203'
 citation: 'Allen Whitehead, C., Bhorat, H., Hill, R., Köhler, T., and Steenkamp, F. (2022). Expansion and Diversification in the MER Sector: Results from an Enterprise Survey. Development Policy Research Unit Working Paper 202203. DPRU, University of Cape Town.'
 ---
