@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer-reviewed journal articles and book chapters"
 permalink: /publications/
 author_profile: true
 ---
