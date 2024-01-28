@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Working papers and reports"
-permalink: /workingpapers/
+permalink: /workingpaper/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.workingpapers reversed %}
+{% for post in site.workingpaper reversed %}
   {% include archive-single.html %}
 {% endfor %}
