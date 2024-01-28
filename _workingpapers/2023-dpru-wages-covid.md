@@ -8,4 +8,3 @@ citation: 'Köhler, T. and Bhorat, H. (2023). Wages and wage inequality during t
 Development Policy Research Unit Working Paper 202308. DPRU, University of Cape Town.'
 ---
 [Download paper here.](https://commerce.uct.ac.za/sites/default/files/media/documents/commerce_uct_ac_za/1093/DPRU%20WP%20202308.pdf)
-
