@@ -2,7 +2,7 @@
 title: "Can Cash Transfers to the Unemployed Support Economic Activity? Evidence from South Africa"
 collection: workingpapers
 permalink: /workingpapers/2023-srd-labour
-date: 2023-03-01
+date: 2023-03
 venue: 'Agence fran¸caise de d´eveloppement Research Paper No. 278'
 citation: 'Bhorat, H., Köhler, T., and de Villiers, D. (2023). Can Cash Transfers to the Unemployed Support Economic Activity? Evidence from South Africa. Agence fran¸caise de d´eveloppement Research Paper No. 278.'
 ---
