@@ -1,5 +1,5 @@
 ---
-title: "Watts happening to work? The labour market effects of South Africa’s electricity crisis"
+title: "Watts happening to work? The labour market effects of South Africa’s electricity crisis (with Haroon Bhorat)"
 collection: publications
 permalink: /publication/2024-ee-loadshedding
 date: 2024-02-28
