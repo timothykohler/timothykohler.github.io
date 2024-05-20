@@ -5,7 +5,7 @@ permalink: /usefulresources/
 author_profile: true
 ---
 
-* [Asjad Naqvi's](https://asjadnaqvi.github.io/DiD/) and [Jonathan Roth's](https://www.jonathandroth.com/did-resources/) repositories of heterogeneity-robust Difference-in-Differences literature and software packages.
+* [Asjad Naqvi](https://asjadnaqvi.github.io/DiD/) and [Jonathan Roth](https://www.jonathandroth.com/did-resources/)'s repositories of heterogeneity-robust Difference-in-Differences literature and software packages.
 * Asjad Naqvi's [Medium guide on Stata](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) on data management and automation, programming, data visualization, LaTeX integration, GitHub integration, and more. 
 * Grant McDermott's resources on [data science for economists](https://github.com/uo-ec607/lectures) and selection of [guides and software tools](https://grantmcdermott.com/software/).
 * Scott Cunningham's free, online version of [Causal Inference: The Mixtape](https://mixtape.scunning.com).
