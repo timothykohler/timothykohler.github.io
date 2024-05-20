@@ -5,4 +5,15 @@ permalink: /usefulresources/
 author_profile: true
 ---
 
-[Test](https://commerce.uct.ac.za/dpru)
+* Asjad Naqvi's [repository](https://asjadnaqvi.github.io/DiD/) of heterogeneity-robust Difference-in-Differences literature and software packages.
+* Asjad Naqvi's [Medium guide on Stata](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) on data management and automation, programming, data visualization, LaTeX integration, GitHub integration, and more. 
+
+
+
+
+
+
+
+
+
+
