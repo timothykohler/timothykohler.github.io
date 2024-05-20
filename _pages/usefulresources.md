@@ -10,7 +10,7 @@ author_profile: true
 * Grant McDermott's resources on [data science for economists](https://github.com/uo-ec607/lectures) and selection of [guides and software tools](https://grantmcdermott.com/software/).
 * Scott Cunningham's free, online version of [Causal Inference: The Mixtape](https://mixtape.scunning.com).
 * Nick Huntington-Klein free, online version of [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net).
-* David McKensie's annual summary of [data on development economics journals](https://blogs.worldbank.org/en/impactevaluations/the-state-of-development-journals-2024--quality--acceptance-rate).
+* David McKenzie's annual summary of [data on development economics journals](https://blogs.worldbank.org/en/impactevaluations/the-state-of-development-journals-2024--quality--acceptance-rate).
 * [DataFirst's Open Data Portal](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/central/?page=1&sort_by=title&sort_order=asc&ps=15) covering a wide range of individual, household, and firm-level microdata.
 * [EconData](https://www.econdata.co.za/signin), a database of a variety of South African macroeconomic data.
 * Giacomo Battiston and Jared GarsGuide's resources on using [Git for economics research](https://leap.unibocconi.eu/resources/courses/git-for-research-in-economics).
