@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal articles
+<span style="font-size:1.5em;">Journal articles</span>
 
 **The labour market effects of cash transfers to the unemployed: Evidence from South Africa** (with Haroon Bhorat) <br />
 *In review at World Development*
@@ -34,7 +34,7 @@ Journal articles
 **[Trends in COVID-19 public health intervention adherence and vaccine hesitancy in South Africa: 2020-2021](https://journals.co.za/doi/pdf/10.10520/ejc-healthr-v2021-n1-a29)** (with Rene English and Carmen Christian) <br />
 *South African Health Review*, 2021
 
-Book chapters
+<span style="font-size:1.5em;">Book chapters</span>
 
 **Wage subsidies and job retention in a developing country: Evidence from South Africa** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
 *Forthcoming in 'Cushioning against Crises: The Role of Tax-Benefit Systems in the Developing World'* <br />
@@ -47,8 +47,6 @@ Columbia University Press
 **[The Short-Term Labor Market Effects of South Africa`s National COVID-19 Lockdown](https://doi.org/10.1007/978-3-031-10576-0_6)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
 *In Qobo, M., Soko, M., Xenia Ngwenya, N. (eds) 'The Future of the South African Political Economy Post-COVID 19'* <br />
 Palgrave Macmillan, Cham.
-
-
 
 
 
