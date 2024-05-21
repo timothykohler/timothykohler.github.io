@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>
+Journal articles
+<h1>
+
 **The labour market effects of cash transfers to the unemployed: Evidence from South Africa** (with Haroon Bhorat)
 *In review at World Development*
 
@@ -16,4 +20,14 @@ author_profile: true
 
 **[Lockdown stringency and employment formality: Evidence from the COVID-19 pandemic in South Africa](https://doi.org/10.1186/s12651-022-00329-0)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix)
 *Journal for Labour Market Research*, 2023 (Vol. 57, Issue 3)
+
+<h2>
+Book chapters
+<h1>
+
+
+
+
+
+
 
