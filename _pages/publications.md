@@ -25,7 +25,7 @@ Journal articles
 **[Wage subsidies and COVID-19: The distribution and dynamics of South Africa`s TERS policy](https://doi.org/10.1080/0376835X.2022.2057927)** (with Robert Hill) <br />
 *Development Southern Africa*, 2022 (Vol. 39, Issue 5)
 
-**[Longitudinal changes in COVID-19 vaccination intent among South African adults: evidence from the NIDS-CRAM panel survey, February to May 2021](https://doi.org/10.1186/s12889-022-12826-5)** (with Burger, R., Köhler, T., Golos, A.M., Buttenheim, A.M., English, R., Tameris, M. and Maughan-Brown, B) <br />
+**[Longitudinal changes in COVID-19 vaccination intent among South African adults: evidence from the NIDS-CRAM panel survey, February to May 2021](https://doi.org/10.1186/s12889-022-12826-5)** (with Ronelle Burger, Aleksandra Golos, Alison Buttenheim, Rene English, Michele Tameris, and Brendan Maughan-Brown) <br />
 *BMC Public Health*, 2022 (Vol. 22, Issue 422)
 
 **[Class size and learner outcomes in South African schools: The role of school socioeconomic status](https://doi.org/10.1080/0376835X.2020.1845614)** <br />
@@ -40,7 +40,7 @@ Book chapters
 *Forthcoming in 'Cushioning against Crises: The Role of Tax-Benefit Systems in the Developing World'* <br />
 United Nations University World Institute for Development Economics Research and Oxford University Press
 
-**Automation and deindustrialisation in the South African manufacturing sector** (with Allen Whitehead, C., Bhorat, H., Hill, R., Köhler, T. and Steenkamp, F. ) <br />
+**Automation and deindustrialisation in the South African manufacturing sector** (with Caitlin Allen Whitehead, Haroon Bhorat, Robert Hill, and Francois Steenkamp) <br />
 *Forthcoming in (book title forthcoming)* <br />
 Columbia University Press
 
