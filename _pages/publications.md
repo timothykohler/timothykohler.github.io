@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>
 Journal articles
-<h1>
+<h2>
 
 **The labour market effects of cash transfers to the unemployed: Evidence from South Africa** (with Haroon Bhorat) <br />
 *In review at World Development*
@@ -23,7 +23,7 @@ Journal articles
 
 <h2>
 Book chapters
-<h1>
+<h2>
 
 
 
