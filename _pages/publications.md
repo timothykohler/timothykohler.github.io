@@ -36,7 +36,7 @@ author_profile: true
 
 <span style="font-size:1.3em;">Book chapters</span>
 
-**Wage subsidies and job retention in a developing country: Evidence from South Africa** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
+**Wage subsidies and job retention in a developing country: Evidence from South Africa** (with Haroon Bhorat and Robert Hill) <br />
 *Forthcoming in 'Cushioning against Crises: The Role of Tax-Benefit Systems in the Developing World'* <br />
 United Nations University World Institute for Development Economics Research and Oxford University Press
 
