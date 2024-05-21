@@ -25,13 +25,13 @@ author_profile: true
 **[Wage subsidies and COVID-19: The distribution and dynamics of South Africa`s TERS policy](https://doi.org/10.1080/0376835X.2022.2057927)** (with Robert Hill) <br />
 *Development Southern Africa*, 2022 (Vol. 39, Issue 5)
 
-**[Longitudinal changes in COVID-19 vaccination intent among South African adults: evidence from the NIDS-CRAM panel survey, February to May 2021](https://doi.org/10.1186/s12889-022-12826-5)** (with Ronelle Burger, Aleksandra Golos, Alison Buttenheim, Rene English, Michele Tameris, and Brendan Maughan-Brown) <br />
+**[Longitudinal changes in COVID-19 vaccination intent among South African adults: evidence from the NIDS-CRAM panel survey, February to May 2021](https://doi.org/10.1186/s12889-022-12826-5)** (with Ronelle Burger, Aleksandra Golos, Alison Buttenheim, René English, Michele Tameris, and Brendan Maughan-Brown) <br />
 *BMC Public Health*, 2022 (Vol. 22, Issue 422)
 
 **[Class size and learner outcomes in South African schools: The role of school socioeconomic status](https://doi.org/10.1080/0376835X.2020.1845614)** <br />
 *Development Southern Africa*, 2022 (Vol. 39, Issue 2)
 
-**[Trends in COVID-19 public health intervention adherence and vaccine hesitancy in South Africa: 2020-2021](https://journals.co.za/doi/pdf/10.10520/ejc-healthr-v2021-n1-a29)** (with Rene English and Carmen Christian) <br />
+**[Trends in COVID-19 public health intervention adherence and vaccine hesitancy in South Africa: 2020-2021](https://journals.co.za/doi/pdf/10.10520/ejc-healthr-v2021-n1-a29)** (with René English and Carmen Christian) <br />
 *South African Health Review*, 2021
 
 <span style="font-size:1.5em;">Book chapters</span>
