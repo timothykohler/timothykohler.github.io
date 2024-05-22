@@ -6,6 +6,9 @@ main:
   - title: "Working papers"
     url: /workingpapers/
 
+  - title: "Reports"
+    url: /reports/
+
   - title: "Useful resources"
     url: /usefulresources/
     
