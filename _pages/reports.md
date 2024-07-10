@@ -9,7 +9,7 @@ author_profile: true
 2024 <br />
 *Report for South Africa's Department of Employment and Labour and National Minimum Wage Commission*
 
-**Social Security Coverage among the Working-Age Population in South Africa** (with Haroon Bhorat and Jabulile Monnakgotla) <br />
+**[Social Security Coverage among the Working-Age Population in South Africa](https://www.labour.gov.za/DocumentCenter/Research%20Documents/2023/Final%20Social%20Security%20Report.pdf)** (with Haroon Bhorat and Jabulile Monnakgotla) <br />
 2023 <br />
 *Report for South Africa's Department of Employment and Labour*
 
