@@ -7,7 +7,7 @@ author_profile: true
 
 **[The labour market effects of cash transfers to the unemployed: Evidence from South Africa](https://commerce.uct.ac.za/sites/default/files/media/documents/commerce_uct_ac_za/1107/dpru-wp202405.pdf)** (with Haroon Bhorat) <br />
 2024 <br />
-*Development Policy Research Unit Working Paper. DPRU, University of Cape Town.*
+*Development Policy Research Unit Working Paper 202405. DPRU, University of Cape Town.*
 
 **[Watts happening to work? The labour market effects of South Africa’s electricity crisis](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-20-labour-market-effects-South-Africa-electricity-crisis.pdf)** (with Haroon Bhorat) <br />
 2024 <br />
