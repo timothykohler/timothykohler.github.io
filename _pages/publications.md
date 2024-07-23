@@ -14,7 +14,7 @@ author_profile: true
 *R&R at Energy Economics*
 
 **The effects of behaviorally informed messages on COVID-19 vaccination intentions and behavior: Evidence from randomized survey experiments in South Africa** (with Alison Buttenheim, Katherine Eyal, and Brendan Maughan-Brown) <br />
-*R&R at Journal of Health Communication*
+*Forthcoming in Journal of Health Communication*
 
 **[Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: evidence from a large national survey](https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16584-w.pdf)** (with Katherine Eyal, Lindokuhle Njozela, Kim Ingle, Timothy Brophy, Alison Buttenheim, and Brendan Maughan‐Brown) <br />
 *BMC Public Health*, 2023 (Vol. 23, Issue 1767)
