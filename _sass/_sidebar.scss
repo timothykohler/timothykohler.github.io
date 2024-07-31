@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: none;
+    border-radius: 0;
     border: none; // Remove the border property
 
     @include breakpoint($large) {
