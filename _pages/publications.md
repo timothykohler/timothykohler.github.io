@@ -8,7 +8,7 @@ author_profile: true
 <span style="font-size:1.3em;">Journal articles</span>
 
 **The labour market effects of cash transfers to the unemployed: Evidence from South Africa** (with Haroon Bhorat) <br />
-*In review at World Development*
+*Forthcoming in World Development*
 
 **Watts happening to work? The labour market effects of South Africa’s electricity crisis** (with Haroon Bhorat) <br />
 *R&R at Energy Economics*
