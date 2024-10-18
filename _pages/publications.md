@@ -13,8 +13,8 @@ author_profile: true
 **Watts happening to work? The labour market effects of South Africa’s electricity crisis** (with Haroon Bhorat) <br />
 *R&R at Energy Economics*
 
-**The effects of behaviorally informed messages on COVID-19 vaccination intentions and behavior: Evidence from randomized survey experiments in South Africa** (with Alison Buttenheim, Katherine Eyal, and Brendan Maughan-Brown) <br />
-*Forthcoming in Journal of Health Communication*
+**[The effects of behaviorally informed messages on COVID-19 vaccination intentions and behavior: Evidence from randomized survey experiments in South Africa](https://www.tandfonline.com/eprint/7TWTJU5USSWQHH5Y9HE7/full?target=10.1080/10810730.2024.2399568)** (with Alison Buttenheim, Katherine Eyal, and Brendan Maughan-Brown) <br />
+*Journal of Health Communication*, 2024
 
 **[Correlates of COVID-19 vaccination intentions and opinions about mandates among four groups of adults in South Africa with distinct vaccine intentions: evidence from a large national survey](https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16584-w.pdf)** (with Katherine Eyal, Lindokuhle Njozela, Kim Ingle, Timothy Brophy, Alison Buttenheim, and Brendan Maughan‐Brown) <br />
 *BMC Public Health*, 2023 (Vol. 23, Issue 1767)
