@@ -5,6 +5,10 @@ permalink: /reports/
 author_profile: true
 ---
 
+**Measuring the Impact of the 2024 National Minimum Wage Increase** (with Haroon Bhorat and Ben Stanwix) <br />
+Forthcoming <br />
+*Report for South Africa's Department of Employment and Labour and National Minimum Wage Commission*
+
 **[Measuring the Impact of the 2023 National Minimum Wage Increase](https://www.labour.gov.za/DocumentCenter/Reports/Annual%20Reports/National%20Minimum%20Wage%20Report/2023/National%20Minimum%20Wage%20Report%202023.pdf)** (with Haroon Bhorat and Ben Stanwix) <br />
 2024 <br />
 *Report for South Africa's Department of Employment and Labour and National Minimum Wage Commission*
