@@ -11,7 +11,7 @@ author_profile: true
 *Forthcoming in World Development*
 
 **Watts happening to work? The labour market effects of South Africa’s electricity crisis** (with Haroon Bhorat) <br />
-*R&R at Energy Economics*
+*Forthcoming in Energy Economics*
 
 **[The effects of behaviorally informed messages on COVID-19 vaccination intentions and behavior: Evidence from randomized survey experiments in South Africa](https://www.tandfonline.com/eprint/7TWTJU5USSWQHH5Y9HE7/full?target=10.1080/10810730.2024.2399568)** (with Alison Buttenheim, Katherine Eyal, and Brendan Maughan-Brown) <br />
 *Journal of Health Communication*, 2024 (Vol. 29, Issue 10)
