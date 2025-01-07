@@ -14,7 +14,7 @@ author_profile: true
 * David McKenzie's annual summary of [data on development economics journals](https://blogs.worldbank.org/en/impactevaluations/the-state-of-development-journals-2024--quality--acceptance-rate).
 * [DataFirst's Open Data Portal](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/central/?page=1&sort_by=title&sort_order=asc&ps=15) which provides access to a wide range of individual, household, and firm-level microdata.
 * [EconData](https://www.econdata.co.za/signin), a database covering a variety of South African macroeconomic data.
-* Giacomo Battiston and Jared GarsGuide's resources on using [Git for economics research](https://leap.unibocconi.eu/resources/courses/git-for-research-in-economics).
+* Giacomo Battiston and Jared Gars' resources on using [Git for economics research](https://leap.unibocconi.eu/resources/courses/git-for-research-in-economics).
 * Paul Goldsmith-Pinkham's guide on using [GitHub Copilot in VSCode with LaTeX/Stata/R extensions](https://paulgp.substack.com/p/setting-up-github-copilot-and-vscode).
 
 
