@@ -10,8 +10,8 @@ author_profile: true
 **[The labour market effects of cash transfers to the unemployed: Evidence from South Africa](https://doi.org/10.1016/j.worlddev.2024.106889)** (with Haroon Bhorat) <br />
 *World Development*, 2025 (Vol. 188, Article 106889)
 
-**Watts happening to work? The labour market effects of South Africa’s electricity crisis** (with Haroon Bhorat) <br />
-*Forthcoming in Energy Economics*
+**[Watts happening to work? The labour market effects of South Africa’s electricity crisis](https://doi.org/10.1016/j.eneco.2024.108119)** (with Haroon Bhorat) <br />
+*Energy Economics*, 2025 (Article 108119)
 
 **[The effects of behaviorally informed messages on COVID-19 vaccination intentions and behavior: Evidence from randomized survey experiments in South Africa](https://www.tandfonline.com/eprint/7TWTJU5USSWQHH5Y9HE7/full?target=10.1080/10810730.2024.2399568)** (with Alison Buttenheim, Katherine Eyal, and Brendan Maughan-Brown) <br />
 *Journal of Health Communication*, 2024 (Vol. 29, Issue 10)
