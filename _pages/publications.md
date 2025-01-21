@@ -22,7 +22,7 @@ author_profile: true
 **[Lockdown stringency and employment formality: Evidence from the COVID-19 pandemic in South Africa](https://doi.org/10.1186/s12651-022-00329-0)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
 *Journal for Labour Market Research*, 2023 (Vol. 57, Issue 3)
 
-**[Wage subsidies and COVID-19: The distribution and dynamics of South Africa`s TERS policy](https://doi.org/10.1080/0376835X.2022.2057927)** (with Robert Hill) <br />
+**[Wage subsidies and COVID-19: The distribution and dynamics of South Africa’s TERS policy](https://doi.org/10.1080/0376835X.2022.2057927)** (with Robert Hill) <br />
 *Development Southern Africa*, 2022 (Vol. 39, Issue 5)
 
 **[Longitudinal changes in COVID-19 vaccination intent among South African adults: evidence from the NIDS-CRAM panel survey, February to May 2021](https://doi.org/10.1186/s12889-022-12826-5)** (with Ronelle Burger, Aleksandra Golos, Alison Buttenheim, René English, Michele Tameris, and Brendan Maughan-Brown) <br />
@@ -44,7 +44,7 @@ United Nations University World Institute for Development Economics Research and
 *Forthcoming in (book title forthcoming)* <br />
 Columbia University Press
 
-**[The Short-Term Labor Market Effects of South Africa`s National COVID-19 Lockdown](https://doi.org/10.1007/978-3-031-10576-0_6)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
+**[The Short-Term Labor Market Effects of South Africa’s National COVID-19 Lockdown](https://doi.org/10.1007/978-3-031-10576-0_6)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
 *In Qobo, M., Soko, M., Xenia Ngwenya, N. (eds) 'The Future of the South African Political Economy Post-COVID 19'* <br />
 Palgrave Macmillan, Cham.
 
