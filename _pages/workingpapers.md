@@ -5,8 +5,8 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-**A Paradox of Progress: Rising Education and Unequal Labour Market Returns in Post-Apartheid South Africa** <br />
-Forthcoming <br />
+**[A Paradox of Progress: Rising Education and Unequal Labour Market Returns in Post-Apartheid South Africa](https://resep.sun.ac.za/wp-content/uploads/2025/02/kohler_2024_paradox_of_progress_241212.pdf)** <br />
+2024 <br />
 *Research on Socio-Economic Policy Covid-Generation Working Paper. RESEP, Stellenbosch University*
 
 **[The labour market effects of cash transfers to the unemployed: Evidence from South Africa](https://commerce.uct.ac.za/sites/default/files/media/documents/commerce_uct_ac_za/1093/dpru-wp202405.pdf)** (with Haroon Bhorat) <br />
