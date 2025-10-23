@@ -42,7 +42,7 @@ United Nations University World Institute for Development Economics Research and
 2025
 
 **Automation and deindustrialisation in the South African manufacturing sector** (with Caitlin Allen Whitehead, Haroon Bhorat, Robert Hill, and Francois Steenkamp) <br />
-*Forthcoming in (book title forthcoming)* <br />
+*Forthcoming in 'The Future of Work in Developing Countries'* <br />
 Columbia University Press
 
 **[The Short-Term Labor Market Effects of South Africa’s National COVID-19 Lockdown](https://doi.org/10.1007/978-3-031-10576-0_6)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
