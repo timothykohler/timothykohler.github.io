@@ -36,8 +36,8 @@ author_profile: true
 
 <span style="font-size:1.3em;">Book chapters</span>
 
-**Wage subsidies and job retention in a developing country: Evidence from South Africa** (with Haroon Bhorat and Robert Hill) <br />
-*Forthcoming in Jouste, M., Kanbur, R., Pirttilä, J. and Rattenhuber, P. (eds) 'Poor Protection: The role of taxes and social benefits in the developing world during crises'* <br />
+**[Wage subsidies and job retention in a developing country: Evidence from South Africa](https://www.wider.unu.edu/publication/poor-protection)** (with Haroon Bhorat and Robert Hill) <br />
+*In Jouste, M., Kanbur, R., Pirttilä, J. and Rattenhuber, P. (eds) 'Poor Protection: The Role of Taxes and Social Benefits in the Developing World During Crises'* <br />
 United Nations University World Institute for Development Economics Research and Oxford University Press
 
 **Automation and deindustrialisation in the South African manufacturing sector** (with Caitlin Allen Whitehead, Haroon Bhorat, Robert Hill, and Francois Steenkamp) <br />
