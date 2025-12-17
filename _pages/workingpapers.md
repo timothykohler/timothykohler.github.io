@@ -5,6 +5,18 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+**Low Value Cash Transfers in a High Unemployment Environment** (with Ben Stanwix and Haroon Bhorat)
+Forthcoming <br />
+*WIDER Working Paper. Helsinki: UNU-WIDER.*
+
+**Progress and Persistence: Race and Intergenerational Educational Mobility in South Africa** (with Morne Oosthuizen)
+Forthcoming <br />
+*Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
+
+**Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data** (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda)
+Forthcoming <br />
+*International Growth Centre (IGC) Working Paper.*
+
 **[A Paradox of Progress: Rising Education and Unequal Labour Market Returns in Post-Apartheid South Africa](https://resep.sun.ac.za/wp-content/uploads/2025/02/kohler_2024_paradox_of_progress_241212.pdf)** <br />
 2024 <br />
 *Research on Socio-Economic Policy Covid-Generation Working Paper. RESEP, Stellenbosch University*
