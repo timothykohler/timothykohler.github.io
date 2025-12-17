@@ -9,6 +9,10 @@ author_profile: true
 Forthcoming <br /> 
 *WIDER Working Paper. Helsinki: UNU-WIDER.*
 
+**Automation and Inequality Within Firms: Evidence from South Africa** (with Rafael de la Vega, Antonio Martins-Neto, and Siphelele Ngidi) <br />
+Forthcoming <br />
+*Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
+
 **Progress and Persistence: Race and Intergenerational Educational Mobility in South Africa** (with Morne Oosthuizen) <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
