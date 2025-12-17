@@ -5,15 +5,15 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-**Low Value Cash Transfers in a High Unemployment Environment** (with Ben Stanwix and Haroon Bhorat)
+**Low Value Cash Transfers in a High Unemployment Environment** (with Ben Stanwix and Haroon Bhorat) <br />
 Forthcoming <br />
 *WIDER Working Paper. Helsinki: UNU-WIDER.*
 
-**Progress and Persistence: Race and Intergenerational Educational Mobility in South Africa** (with Morne Oosthuizen)
+**Progress and Persistence: Race and Intergenerational Educational Mobility in South Africa** (with Morne Oosthuizen) <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
 
-**Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data** (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda)
+**Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data** (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda) <br />
 Forthcoming <br />
 *International Growth Centre (IGC) Working Paper.*
 
