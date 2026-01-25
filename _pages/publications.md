@@ -38,16 +38,13 @@ author_profile: true
 
 **[Automation and deindustrialisation in the South African manufacturing sector](https://cup.columbia.edu/book/the-future-of-work-in-developing-countries/9780231220330/)** (with Caitlin Allen Whitehead, Haroon Bhorat, Robert Hill, and Francois Steenkamp) <br />
 *In Jayadev, A., Noman, A. and Stiglitz, J. E. (eds) 'The Future of Work in Developing Countries'* <br />
-Columbia University Press
-2026
+Columbia University Press, 2026
 
 **[Wage subsidies and job retention in a developing country: Evidence from South Africa](https://www.wider.unu.edu/publication/poor-protection)** (with Haroon Bhorat and Robert Hill) <br />
 *In Jouste, M., Kanbur, R., Pirttilä, J. and Rattenhuber, P. (eds) 'Poor Protection: The Role of Taxes and Social Benefits in the Developing World During Crises'* <br />
-United Nations University World Institute for Development Economics Research and Oxford University Press
-2025
+United Nations University World Institute for Development Economics Research and Oxford University Press, 2025
 
 **[The Short-Term Labor Market Effects of South Africa’s National COVID-19 Lockdown](https://doi.org/10.1007/978-3-031-10576-0_6)** (with Haroon Bhorat, Robert Hill, and Ben Stanwix) <br />
 *In Qobo, M., Soko, M., Ngwenya, N. X. (eds) 'The Future of the South African Political Economy Post-COVID 19'* <br />
-Palgrave Macmillan, Cham.
-2022
+Palgrave Macmillan, Cham., 2022
 
