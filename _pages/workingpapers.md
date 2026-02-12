@@ -5,7 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-**Low Value Cash Transfers in a High Unemployment Environment** (with Ben Stanwix and Haroon Bhorat) <br />
+**Cash Transfers and Labour Supply under Structural Unemployment** (with Ben Stanwix and Haroon Bhorat) <br />
 Forthcoming <br /> 
 *WIDER Working Paper. Helsinki: UNU-WIDER.*
 
