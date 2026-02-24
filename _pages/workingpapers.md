@@ -17,9 +17,9 @@ Forthcoming <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
 
-**Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data** (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda) <br />
-Forthcoming <br />
-*International Growth Centre (IGC) Working Paper.*
+**[Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data](https://www.theigc.org/publications/job-creation-and-destruction-rwandas-formal-sector-evidence-administrative-tax-data)* (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda) <br />
+2026 <br />
+*International Growth Centre (IGC) Working Paper RWA-25099.*
 
 **[A Paradox of Progress: Rising Education and Unequal Labour Market Returns in Post-Apartheid South Africa](https://resep.sun.ac.za/wp-content/uploads/2025/02/kohler_2024_paradox_of_progress_241212.pdf)** <br />
 2024 <br />
