@@ -5,10 +5,6 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-**Cash Transfers and Labour Supply under Structural Unemployment** (with Ben Stanwix and Haroon Bhorat) <br />
-Forthcoming <br /> 
-*WIDER Working Paper. Helsinki: UNU-WIDER.*
-
 **Automation and Inequality Within Firms: Evidence from South Africa** (with Rafael de la Vega, Antonio Martins-Neto, and Siphelele Ngidi) <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
@@ -16,6 +12,10 @@ Forthcoming <br />
 **Progress and Persistence: Race and Intergenerational Educational Mobility in South Africa** (with Morne Oosthuizen) <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
+
+**[Cash Transfers and Labour Supply under Structural Unemployment](https://doi.org/10.35188/UNU-WIDER/)** (with Ben Stanwix and Haroon Bhorat) <br />
+2026 <br /> 
+*WIDER Working Paper 19/2026. Helsinki: UNU-WIDER.*
 
 **[Job Creation and Destruction in Rwanda’s Formal Sector: Evidence from Administrative Tax Data](https://www.theigc.org/publications/job-creation-and-destruction-rwandas-formal-sector-evidence-administrative-tax-data)** (with Haroon Bhorat, Francois Steenkamp, and Mphatso Kumwenda) <br />
 2026 <br />
