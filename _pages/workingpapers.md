@@ -13,7 +13,7 @@ Forthcoming <br />
 Forthcoming <br />
 *Southern Africa - Towards Inclusive Economic Development (SA-TIED) Working Paper / WIDER Working Paper. Helsinki: UNU-WIDER.*
 
-**[Cash Transfers and Labour Supply under Structural Unemployment](https://doi.org/10.35188/UNU-WIDER/)** (with Ben Stanwix and Haroon Bhorat) <br />
+**[Cash Transfers and Labour Supply under Structural Unemployment](https://www.wider.unu.edu/publication/cash-transfers-and-labour-supply-under-structural-unemployment)** (with Ben Stanwix and Haroon Bhorat) <br /> 
 2026 <br /> 
 *WIDER Working Paper 19/2026. Helsinki: UNU-WIDER.*
 
